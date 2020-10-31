@@ -1,0 +1,7 @@
+.hyper_plugins/*
+Cache/*
+GPUCache/*
+Local\ Storage/*
+Network\ Persistent\ State
+Preferences
+config.json
